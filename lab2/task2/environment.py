@@ -37,8 +37,8 @@ def app(environ, start_response):
             keep_blank_values=True
         )
         
-        x = post['x'].value
-        y = post['y'].value
+        x = post['x'].value if post['x'].value else 0
+        y = post['y'].value if post['y'].value else 0
         sum = int(x) + int(y)
         
     start_response('200 OK', [('Content-Type', 'text/html')])
