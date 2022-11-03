@@ -1,0 +1,30 @@
+{% extends 'main.html' %}
+
+
+{% block head %}
+<title>Delete page</title>
+{% endblock %}
+
+
+
+{% block content %}
+
+
+<h1>Session deleted!</h1>
+
+
+<script>
+    $('.nav-item a').each(function(){
+		let hasActiveClass = $(this).hasClass('active');
+
+		if (hasActiveClass){
+			$(this).removeClass('active');
+			return false;
+		}
+	});
+
+</script>
+
+{% endblock %}
+
+

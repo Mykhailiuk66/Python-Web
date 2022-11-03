@@ -1,0 +1,35 @@
+
+
+body{
+    background-color: var(--bs-body-color-rgb);
+}
+
+.inner-container{
+    min-height: 88vh !important;
+}
+
+span.emoji {
+    font-size: 100px;
+    vertical-align: middle;
+}
+
+a{
+    text-decoration: none !important;
+    color: inherit;
+}
+
+a:hover{
+    color: inherit;
+}
+
+.form-div{
+    min-width: 40vw;
+    max-width: 55vw;
+    margin-top: 2vh;
+    padding: 4vh;
+}
+
+.form-div form{
+    margin: 4vw;
+    max-width: 40vw;
+}
