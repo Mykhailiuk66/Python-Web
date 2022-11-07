@@ -1,0 +1,49 @@
+{% extends 'main.html' %}
+
+{% block head %}
+    <title>Portfolio</title>
+{% endblock %}
+
+
+{% block content %}
+
+<div class="container" >
+
+<br>
+    <div class="row row-cols-1 row-cols-md-2 g-4">
+        {% for project in projects %}
+			<div class="col">
+				<div class="card h-100">
+					<img src="{{ url_for('static', filename='img/img_'~project.id~'.png') }}" class="card-img-top"
+						alt="{{project.id}}" />
+					<div class="card-body">
+						<h5 class="card-title">{{project.title}}</h5>
+						<p class="card-text">
+							{{project.description}}
+						</p>
+					</div>
+				</div>
+			</div>
+        {% endfor %}
+
+    </div>
+	<br>
+</div>
+
+
+<script>
+
+	$('.nav-item a').each(function(){
+		let hasActiveClass = $(this).hasClass('active');
+
+		if (hasActiveClass){
+			$(this).removeClass('active');
+			return false;
+		}
+	});
+
+    $('.projects .nav-link').addClass('active');
+
+</script>
+
+{% endblock %}

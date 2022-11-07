@@ -349,3 +349,22 @@ werkzeug - WARNING -  * Debugger is active!
 werkzeug - INFO -  * Debugger PIN: 516-921-581
 werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab4\\app.py', reloading
 werkzeug - INFO -  * Restarting with stat
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 516-921-581
+werkzeug - INFO - 127.0.0.1 - - [03/Nov/2022 10:07:52] "GET /contact HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [03/Nov/2022 10:07:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+root - WARNING - Not correct data
+werkzeug - INFO - 127.0.0.1 - - [03/Nov/2022 10:08:13] "POST /contact HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [03/Nov/2022 10:08:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+root - INFO - Data sent successfully: Vitaliy mykhaykyuk@gmail.com
+werkzeug - INFO - 127.0.0.1 - - [03/Nov/2022 10:09:11] "[32mPOST /contact HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [03/Nov/2022 10:09:11] "GET /contact HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [03/Nov/2022 10:09:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [03/Nov/2022 10:09:21] "GET /delete_session HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [03/Nov/2022 10:09:22] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [03/Nov/2022 10:09:28] "GET /contact HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [03/Nov/2022 10:09:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
