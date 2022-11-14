@@ -1,43 +1,40 @@
 {% extends 'main.html' %}
 
-
 {% block head %}
-<title>Form</title>
+<title>Login</title>
 {% endblock %}
-
-
 
 {% block content %}
 
 <div class="container" >
     <div class="d-flex justify-content-center inner-container">       
 
-		
-
 		{% from "macros/_render_field.html" import render_field %}
 
         <div class="bg-dark text-secondary text-center align-self-center form-div">
-			{% for category, message in get_flashed_messages(True) %}
-			<ul class="list-group">
-				<li class="list-group-item list-group-item-{{category}}">{{message}}</li>
-			</ul>
-			{%endfor %}
+            <h3>Log In</h3>
+            <hr>
 
 			<form action="" method="post">
 				{{ form.csrf_token }}
 
                 {% for field in form %}
-                    {% if loop.revindex > 2 %}
+                    {% if loop.revindex > 3 %}
                         {{ render_field(field, class="form-control") }}
                     {% endif %}
                 {% endfor %}
-
-				{{ form.submit(class="btn btn-primary") }}
+                
+                <div class="form-check text-start">
+                    {{ form.remember.label(class='form-check-label text-start') }}
+                    {{ form.remember(class='form-check-input') }}
+                </div>
+                <br>
+                
+                {{ form.submit(class="btn btn-primary") }}
 			</form>
         </div>
     </div>
 </div>
-
 
 <script>
     $('.nav-item a').each(function(){
@@ -49,10 +46,8 @@
 		}
 	});
 
-    $('.contact .nav-link').addClass('active');
+    $('.log-in .nav-link').addClass('active');
 
 </script>
 
 {% endblock %}
-
-

@@ -1522,3 +1522,240 @@ werkzeug - INFO - 127.0.0.1 - - [07/Nov/2022 15:20:46] "[36mGET /static/img/img
 werkzeug - INFO - 127.0.0.1 - - [07/Nov/2022 15:20:46] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
 werkzeug - INFO - 127.0.0.1 - - [07/Nov/2022 15:20:46] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
 werkzeug - INFO - 127.0.0.1 - - [07/Nov/2022 15:20:46] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO - 127.0.0.1 - - [07/Nov/2022 15:26:24] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Nov/2022 15:26:24] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Nov/2022 15:26:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [07/Nov/2022 15:26:24] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Nov/2022 15:28:10] "GET /contact HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Nov/2022 15:28:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [07/Nov/2022 15:28:11] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [07/Nov/2022 15:28:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:27:53] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:27:54] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:27:54] "GET /static/img/img_1.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:27:54] "GET /static/img/img_2.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:27:54] "GET /static/img/img_3.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:27:54] "GET /static/img/img_4.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:27:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:28:28] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:28:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:36:00] "[32mGET /delete_object/3 HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:36:00] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:36:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:36:01] "[32mGET /delete_object/3 HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:36:01] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:36:02] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:36:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:51:29] "GET /contact HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:51:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+root - INFO - Data sent successfully: ФІвіфв mykhaykyuk32@gmail.com
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:51:41] "[32mPOST /contact HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:51:41] "GET /contact HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:51:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:51:42] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:51:42] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:51:48] "[32mGET /delete_object/3 HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:51:48] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:51:48] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:52:01] "GET /contact HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:52:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:52:02] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:52:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:52:20] "[32mGET /delete_object/3 HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:52:20] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:52:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:52:24] "[32mGET /delete_object/4 HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:52:24] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:52:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:54:08] "GET /contact HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:54:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:55:42] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:55:42] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:55:50] "[32mGET /delete_object/2 HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:55:50] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 15:55:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:02:57] "GET /contact HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:02:57] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:02:58] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:02:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:03:00] "GET /contact HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:03:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+root - INFO - Data sent successfully: Qwert mykhaykyuk32@gmail.com
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:03:08] "[32mPOST /contact HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:03:08] "GET /contact HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:03:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:03:09] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:03:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:03:13] "[32mGET /delete_object/2 HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:03:13] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:03:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:04:03] "GET /contact HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:04:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+root - INFO - Data sent successfully: Qwert mykhaykyuk32@gmail.com
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:04:08] "[32mPOST /contact HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:04:08] "GET /contact HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:04:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:04:10] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:04:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:04:11] "[32mGET /delete_object/2 HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:04:11] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:04:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:04:22] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:04:22] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:04:34] "[32mGET /delete_object/3 HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:04:34] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:04:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:04:41] "[32mGET /delete_object/3 HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:04:41] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:04:42] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:05:24] "[32mGET /delete_object/3 HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:05:25] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [09/Nov/2022 16:05:25] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab5\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 339-123-305

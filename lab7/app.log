@@ -1,0 +1,1872 @@
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:29:21] "[32mGET /delete_object/10 HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:29:21] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:29:21] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:29:23] "[32mGET /delete_object/7 HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:29:23] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:29:23] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:29:24] "[32mGET /delete_object/9 HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:29:24] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:29:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:29:25] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:29:25] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:29:26] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:29:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:29:30] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:29:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:29:30] "GET /contact HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:29:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:29:34] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:29:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:30:31] "[33mGET /contact HTTP/1.1[0m" 404 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:30:35] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:30:35] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:30:36] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:30:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:30:37] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:30:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:30:37] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:30:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:30:38] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:30:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:30:39] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:30:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:30:40] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:30:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+app - WARNING - Not correct data
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:30:43] "POST /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:30:43] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+app - INFO - Data sent successfully: Віталій mykhaykyuk@gmail.com
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:30:46] "[35m[1mPOST /form HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:30:46] "GET /form?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:30:46] "GET /form?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:30:46] "GET /form?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:30:46] "[36mGET /form?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+app - INFO - Data sent successfully: Віталій mykhaykyuk@gmail.com
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:31:20] "[32mPOST /form HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:31:20] "[35m[1mGET /form HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:31:20] "[36mGET /form?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:31:20] "[36mGET /form?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:31:20] "[36mGET /form?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:31:21] "[36mGET /form?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:31:22] "[35m[1mGET /form HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:31:22] "[36mGET /form?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:31:22] "[36mGET /form?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:31:22] "[36mGET /form?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:31:22] "[36mGET /form?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:31:33] "[35m[1mGET / HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:31:33] "[35m[1mGET / HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:31:33] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:31:33] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:31:33] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:31:33] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:31:33] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:31:33] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:32:32] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:32:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:32:32] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:32:32] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:32:32] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:32:32] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:32:33] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:32:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:32:34] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:32:34] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:32:34] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:32:34] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:32:35] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:32:35] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:32:37] "[32mGET /delete_object/3 HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:32:37] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:32:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:32:41] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:32:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:33:58] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:33:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:34:01] "[32mGET /delete_object/2 HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:34:01] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:34:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:34:03] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:34:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:34:49] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:34:49] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:34:50] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:34:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:34:50] "GET /static/css/main.css HTTP/1.1" 200 -
+app - INFO - Data sent successfully: Віталій mykhaykyuk@gmail.com
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:34:56] "[32mPOST /form HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:34:56] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:34:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:34:57] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:34:57] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:35:03] "[32mGET /delete_object/2 HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:35:03] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:35:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:35:04] "[32mGET /delete_object/1 HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:35:04] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:35:05] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:28] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:28] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:29] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:29] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:29] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:29] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:30] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:31] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:32] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+app - INFO - Data sent successfully: Віталій mykhaykyuk@gmail.com
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:36] "[32mPOST /form HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:36] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:37] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:39] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:40] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:44] "[35m[1mPOST /form HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:44] "[36mGET /form?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:44] "[36mGET /form?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:44] "[36mGET /form?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 15:38:44] "[36mGET /form?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 543-621-811
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 543-621-811
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 543-621-811
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 543-621-811
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 543-621-811
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 543-621-811
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 543-621-811
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 543-621-811
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:04:41] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:04:41] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:04:42] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:04:42] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:04:42] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:04:42] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:04:42] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:04:42] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:04:43] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:04:43] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:04:45] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:04:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:04:50] "[35m[1mPOST /form HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:04:51] "[36mGET /form?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:04:51] "[36mGET /form?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:04:51] "[36mGET /form?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:04:51] "[36mGET /form?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:05:13] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:05:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:05:14] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:05:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:05:15] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:05:16] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:05:23] "[35m[1mPOST /form HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:05:23] "[36mGET /form?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:05:23] "[36mGET /form?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:05:23] "[36mGET /form?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:05:23] "[36mGET /form?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:05:55] "[35m[1mPOST /form HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:05:56] "[36mGET /form?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:05:56] "[36mGET /form?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:05:56] "[36mGET /form?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:05:56] "[36mGET /form?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:06:11] "[35m[1mPOST /form HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:06:12] "[36mGET /form?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:06:12] "[36mGET /form?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:06:12] "[36mGET /form?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:06:12] "[36mGET /form?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:06:53] "[32mPOST /form HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:06:53] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:06:54] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:07:24] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:07:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:07:25] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:07:25] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:07:26] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:07:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:07:29] "[32mPOST /form HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:07:29] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:07:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:07:35] "[32mPOST /form HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:07:35] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:07:35] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+app - INFO - Data sent successfully: Віталій mykhaykyuk2@gmail.com
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:07:42] "[32mPOST /form HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:07:42] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:07:42] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:07:44] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:07:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:08:41] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:08:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+app - INFO - Data sent successfully: Віталій mykhaykyuk3@gmail.com
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:09:06] "[32mPOST /form HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:09:06] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:09:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:09:07] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [12/Nov/2022 16:09:07] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:19:29] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:19:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:19:30] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:19:30] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:19:30] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:19:30] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:19:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:19:32] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:19:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:19:34] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:19:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:22:22] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:22:22] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:22:48] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:22:48] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:22:50] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:22:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:22:51] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:22:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:22:51] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:22:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:22:51] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:22:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:23:00] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:23:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:23:01] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:23:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:25:36] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:25:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:25:38] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:25:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:25:39] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:25:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:26:04] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:26:07] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:26:07] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:26:10] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:26:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:26:11] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:26:11] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:27:51] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:27:51] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:27:51] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:27:52] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:27:54] "[32mGET /delete_object/3 HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:27:54] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:27:54] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\config.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:30:18] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:30:18] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:30:28] "[32mPOST /form HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:30:28] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:30:29] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:30:32] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:30:32] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:30:35] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:30:35] "GET /static/css/main.css HTTP/1.1" 200 -
+app - INFO - Data sent successfully: Vitaliy mykhaykyuk22@gmail.com
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:30:42] "[32mPOST /form HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:30:42] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:30:42] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:30:45] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:30:45] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\config.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:36:53] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:36:54] "GET /static/css/main.css HTTP/1.1" 200 -
+app - INFO - Data sent successfully: Vitaliy mykhaykyuk222@gmail.com
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:36:59] "[32mPOST /form HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:36:59] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:36:59] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:37:02] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:37:02] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:37:03] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:37:03] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:37:05] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:37:05] "GET /static/css/main.css HTTP/1.1" 200 -
+app - INFO - Data sent successfully: Vitaliy mykhaykyuk2222@gmail.com
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:37:15] "[32mPOST /form HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:37:15] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:37:15] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:37:16] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:37:16] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:37:22] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:39:20] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:39:20] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:39:22] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:39:22] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 543-621-811
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:47:57] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:47:57] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:47:58] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:47:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:47:59] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:47:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:48:00] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 11:48:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 12:13:14] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 12:13:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 12:16:06] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 12:16:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 12:16:17] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 12:16:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 12:16:24] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 12:16:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 12:16:27] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 12:16:27] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 13:49:38] "[35m[1mGET /login HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 13:49:39] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 13:49:39] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 13:49:39] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 13:49:39] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 13:49:47] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 13:49:47] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 13:50:36] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 13:50:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:02:05] "[35m[1mGET /login HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:02:05] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:02:05] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:02:05] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:02:05] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:02:32] "[35m[1mGET /login HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:02:32] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:02:32] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:02:32] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:02:32] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:03:23] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:03:23] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:03:24] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:03:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:03:25] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:03:25] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:03:30] "[32mPOST /form HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:03:30] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:03:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:03:51] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:03:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:03:57] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:03:57] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:03:58] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:03:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:03:59] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:03:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:04:01] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:04:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:05:03] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:05:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:05:04] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:05:04] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:05:04] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:05:04] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:05:05] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:05:05] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:05:06] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:05:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:05:37] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:05:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:05:38] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:05:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:05:39] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:05:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:05:40] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:05:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+app - WARNING - Not correct data
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:05:46] "POST /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:05:47] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+app - WARNING - Not correct data
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:05:55] "POST /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:05:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:00] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:02] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:02] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:03] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:03] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:03] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:03] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:03] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:04] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:04] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:05] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:05] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:05] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:05] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:05] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:05] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:08] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:09] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:10] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:11] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:45] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:06:47] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:09:20] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:09:20] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:09:21] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:09:22] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:12:13] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:12:13] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:12:58] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:12:58] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:13:15] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:13:15] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:13:16] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:13:16] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:14:12] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:14:12] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:14:13] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:14:13] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:14:13] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:14:14] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:16:11] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:16:11] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:16:12] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:16:12] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:16:17] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:16:17] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:16:34] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:16:34] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:16:56] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:16:56] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:20:21] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:20:21] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:20:22] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:20:22] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:20:22] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:20:22] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:21:40] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:21:40] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:21:41] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:21:41] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:22:17] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:22:17] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:22:35] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:22:35] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:22:54] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:22:54] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:22:58] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:22:59] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:23:19] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:23:19] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:23:20] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:23:20] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:24:03] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:24:03] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:24:28] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:24:28] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:24:57] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:24:57] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:24:59] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:24:59] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:26:03] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:26:03] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:26:08] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:26:09] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:26:20] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:26:20] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:26:22] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:26:22] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:26:26] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:26:26] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:26:29] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:26:29] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:27:02] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:27:02] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:27:03] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:27:03] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:27:07] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:27:07] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:27:12] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:27:12] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:27:18] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:27:18] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:27:19] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:27:19] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:27:19] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:27:19] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:27:23] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:27:23] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:00] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:00] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:01] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:01] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:11] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:11] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:12] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:12] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:13] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:13] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:13] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:13] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:13] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:13] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:13] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:14] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:22] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:22] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:23] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:23] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:28] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:28] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:34] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:35] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:35] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:35] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:28:59] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:29:00] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:29:00] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:29:00] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:29:21] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:29:21] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:29:27] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:29:27] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:29:35] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:29:35] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:29:39] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:29:39] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:29:47] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:29:47] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:30:51] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:30:52] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:30:52] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:30:52] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:30:52] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:30:56] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:30:56] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:30:59] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:30:59] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:31:01] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:31:01] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:31:09] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:31:09] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\form.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:31:11] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:31:11] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:31:11] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\form.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:31:15] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:31:15] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:31:52] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:31:52] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:31:53] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:31:53] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:33:10] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:33:10] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:33:30] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:33:30] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:33:54] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:33:55] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:34:06] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:34:07] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:34:07] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:34:08] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:35:42] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:35:42] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:35:43] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:35:43] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:35:43] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:35:44] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:36:41] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:36:41] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:36:41] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:36:41] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:36:42] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:36:42] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:37:26] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:37:27] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:37:55] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:37:56] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:38:20] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:38:20] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:38:47] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:38:47] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:41:02] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:41:02] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:41:03] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:41:03] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:41:12] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:41:12] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:41:17] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:41:17] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:41:25] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:41:25] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:42:32] "[35m[1mGET /register HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:42:33] "GET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:42:33] "GET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:42:33] "GET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:42:33] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:42:47] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:42:47] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:43:19] "POST /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:43:19] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:43:31] "[32mPOST /register HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:43:31] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:43:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:44:08] "[32mPOST /login HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:44:08] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:44:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:44:08] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:44:08] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:44:08] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:44:08] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:44:12] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:44:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:44:13] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:44:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:44:14] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:44:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:44:15] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:44:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:44:15] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:44:15] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:44:15] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:44:15] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:44:18] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [13/Nov/2022 14:44:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:45:33] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:45:33] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:45:33] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:45:33] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:45:33] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:45:33] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:45:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:45:35] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:45:35] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:45:36] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:45:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:45:40] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:45:40] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:45:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:45:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:45:45] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:45:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:45:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:47:39] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:47:39] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:48:37] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:48:38] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:48:39] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:48:39] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:50:19] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:50:19] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:51:04] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:51:04] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:51:58] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:51:58] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:53:13] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:53:13] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:53:32] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:53:32] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:53:59] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:53:59] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:54:52] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:54:52] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:55:56] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:55:56] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:55:57] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:55:57] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:18] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:18] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:19] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:19] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:19] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:20] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:20] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:20] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:20] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:20] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:22] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:22] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:23] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:23] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:24] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:24] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:24] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:24] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:24] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:27] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:27] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:57:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:58:01] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:58:01] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:58:06] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:58:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:58:09] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:58:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:58:13] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:58:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:58:36] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:58:36] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:58:37] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:58:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:58:38] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:58:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:58:38] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:58:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:58:39] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:58:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:58:44] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:58:44] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:58:49] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:58:49] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:58:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:59:30] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:59:30] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:59:31] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:59:31] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:59:31] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:59:31] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:59:32] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:59:32] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:59:46] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:59:46] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:59:47] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:59:47] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:59:47] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:59:47] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:59:48] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:59:48] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:59:49] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 11:59:49] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:02] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:02] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:04] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:04] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:11] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:17] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:17] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:19] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:19] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:21] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:21] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:26] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:26] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:26] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:26] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:26] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:26] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:28] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:30] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:35] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:35] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:46] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:46] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:46] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:46] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:46] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:54] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:54] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:54] "GET /static/img/img_1.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:54] "GET /static/img/img_2.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:54] "GET /static/img/img_3.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:00:54] "GET /static/img/img_4.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:03:31] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:03:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:03:44] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:03:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:04:17] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:04:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:04:18] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:04:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:04:18] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:04:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:04:18] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:04:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:04:19] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:04:19] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:04:21] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:04:56] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:04:56] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:04:58] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:04:58] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:04:59] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:04:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:04:59] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:04:59] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:08:00] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:08:00] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:08:48] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:08:48] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:08:52] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:08:52] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:08:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:08:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:09:43] "[32mPOST /register HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:09:43] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:09:48] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:09:48] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:09:51] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:09:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:10:16] "[32mPOST /register HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:10:16] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:10:16] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:11:26] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:11:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:11:27] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:11:27] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:11:28] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:11:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:11:29] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:11:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:11:29] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:11:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:12:56] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:12:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:12:56] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:12:56] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:12:56] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:12:56] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:12:57] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:12:57] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:12:58] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:12:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:12:59] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:12:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:12:59] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:12:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:00] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:01] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:01] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:02] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:02] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:03] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:03] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:03] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:03] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:03] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:03] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:11] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:12] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:14] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:15] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:16] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:16] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:32] "[32mPOST /register HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:32] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:34] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:44] "POST /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:47] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:13:47] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:14:01] "[32mPOST /register HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:14:01] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:14:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:15:15] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:15:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:15:16] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:15:16] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:15:17] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:15:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:15:18] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:15:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:15:19] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:15:19] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:15:21] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:15:21] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:15:22] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:15:22] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:15:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:15:34] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:15:34] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:16:59] "[32mPOST /login HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:16:59] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:16:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:16:59] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:16:59] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:16:59] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:16:59] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:17:12] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:17:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:17:13] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:17:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:17:13] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:17:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:17:14] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:17:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:17:15] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:17:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:17:16] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:17:16] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:17:58] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:17:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:18:06] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:18:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:18:07] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:18:07] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:18:08] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:18:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:18:10] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:18:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:18:12] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:18:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 543-621-811
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:26:25] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:26:25] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:26:38] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:26:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:26:54] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:26:54] "GET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:26:54] "GET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:26:54] "GET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:26:54] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+app - INFO - Registration successful
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:27:12] "[32mPOST /register HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:27:12] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:27:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:07] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:07] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:11] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:11] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:11] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:11] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:12] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:20] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:20] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:20] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:22] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:22] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:22] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:22] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:36] "[32mPOST /login HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:36] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:36] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:36] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:36] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:36] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:42] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:42] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:43] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:43] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:44] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:45] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:45] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:46] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:30:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:32:11] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:32:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+app - INFO - Registration successful
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:32:21] "[32mPOST /register HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:32:21] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 12:32:22] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:00:52] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:00:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:00:54] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:00:54] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:01:01] "POST /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:01:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+app - INFO - Registration successful
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:01:11] "[32mPOST /register HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:01:11] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:01:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:01:18] "[32mPOST /login HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:01:18] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:01:19] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:01:19] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:01:19] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:01:19] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:01:19] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:02:13] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:02:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:02:14] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:02:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:02:15] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:02:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:02:41] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:02:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:02:53] "POST /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:02:54] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:02:59] "[32mPOST /login HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:02:59] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:02:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:02:59] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:02:59] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:02:59] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:02:59] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 543-621-811
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:04:31] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:04:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:05:54] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:05:54] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+app - WARNING - Not correct data
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:06:21] "POST /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:06:21] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:07:20] "[35m[1mGET /login HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:07:20] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:07:20] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:07:20] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:07:21] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:07:34] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:07:34] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:07:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:07:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:07:34] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:07:34] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:07:34] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:07:34] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:07:34] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:07:34] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:07:34] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:07:34] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:07:35] "[35m[1mGET /login HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:07:35] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:07:35] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:07:36] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:07:59] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:07:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:08:18] "[32mPOST /login HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:08:18] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:08:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:08:18] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:08:18] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:08:18] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:08:18] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:08:20] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:08:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:08:20] "GET /db_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:08:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:08:21] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:08:21] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:08:26] "[32mPOST /login HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:08:26] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:08:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:08:26] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:08:26] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:08:26] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:08:26] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:08:27] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 13:08:27] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\form.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 543-621-811
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\form.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 543-621-811
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\form.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 543-621-811
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\form.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 543-621-811
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\form.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 543-621-811
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\form.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\form.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\form.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\form.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\form.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 543-621-811
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\form.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 543-621-811
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\form.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\form.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\form.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\form.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\form.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\form.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:03:11] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:03:11] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:03:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:03:29] "POST /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:03:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:04:04] "POST /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:04:04] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:04:25] "POST /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:04:25] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:04:35] "POST /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:04:35] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:04:38] "POST /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:04:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:04:40] "POST /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:04:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:04:45] "POST /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:04:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:04:49] "POST /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:04:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\form.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:05:07] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:05:07] "GET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:05:07] "GET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:05:07] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:05:07] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:05:30] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:05:31] "[36mGET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:05:31] "[36mGET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:05:31] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:05:31] "[36mGET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:06:05] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:06:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:06:06] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:06:06] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:06:06] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:06:06] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:06:10] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:06:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:06:21] "POST /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:06:21] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:06:23] "POST /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:06:23] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:06:26] "POST /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:06:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+app - INFO - Registration successful
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:06:33] "[32mPOST /register HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:06:33] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:06:33] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:07:12] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:07:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:07:15] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:07:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:07:24] "POST /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:07:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:07:29] "POST /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:07:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:07:33] "POST /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:07:33] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+app - INFO - Registration successful
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:07:45] "[32mPOST /register HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:07:45] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:07:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:08:05] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:08:05] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 543-621-811
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 543-621-811
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:09:52] "[35m[1mGET /login HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:09:52] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:09:52] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:09:52] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:09:52] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 543-621-811
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:10:34] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:10:35] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:10:37] "GET /db_user_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:10:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:12:12] "GET /db_user_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:12:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:12:23] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:12:23] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:12:24] "GET /db_form_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:12:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:08] "GET /db_form_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:09] "GET /db_user_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:10] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:11] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:12] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:15] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:15] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:15] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:15] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:15] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:17] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:17] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:18] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:18] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:18] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:18] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:18] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:21] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:21] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:22] "GET /db_form_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:22] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:23] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:23] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:28] "GET /db_form_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:30] "GET /db_user_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:34] "GET /db_form_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:35] "GET /db_user_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:35] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:37] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:39] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:42] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:13:43] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:26] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:27] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:27] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:27] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:27] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:27] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:30] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:30] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:30] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:30] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:30] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:31] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:32] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:32] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:32] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:32] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:32] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:36] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:36] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:37] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:38] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:38] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:39] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:40] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:40] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:41] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:42] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:42] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:42] "GET /about HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:42] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:43] "GET /form HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:43] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:44] "GET /db_form_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:45] "GET /db_form_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:46] "GET /db_user_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:47] "GET /db_user_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:47] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:47] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:47] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:48] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:48] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:49] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:14:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab7\\app\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 117-856-709
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:16:12] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:16:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:16:13] "GET /db_user_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:16:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:16:16] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [14/Nov/2022 14:16:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -

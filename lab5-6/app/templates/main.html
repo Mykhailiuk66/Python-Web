@@ -17,6 +17,12 @@
   </head>
   <body>
     {% include 'nav.html' %}   
+        
+        {% for category, message in get_flashed_messages(True) %}
+        <ul class="list-group">
+          <li class="list-group-item list-group-item-{{category}}">{{message}}</li>
+        </ul>
+        {%endfor %}
 
         {% block content %}
 

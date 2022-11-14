@@ -3,9 +3,7 @@ from app.form import Myform
 from app.models import FormModel
 from app import app, db
 import random
-import logging
 
-logging.basicConfig(filename='app.log', encoding='UTF-8', filemode='a', format='%(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
 
 projects = [
@@ -93,9 +91,19 @@ def delete_session():
 
 @app.route('/delete_object/<int:id>', methods=['GET'])
 def delete_object(id):
-    FormModel.query.filter_by(id=id).delete()
+    # FormModel.query.filter_by(id=id).delete()
+    form_model = FormModel.query.filter_by(id=id).first()
     
-    db.session.commit()
-    
+    if form_model:
+        try:
+            db.session.delete(form_model)
+            db.session.commit()
+            flash(f"Дані успішно видалено (id: {id})", category='success')
+        except:
+            db.session.rollback()
+    else:
+        flash(f"Такого айді не існує! (id: {id})", category='error')
+            
+            
     return redirect(url_for('db_table'))
-   
+    
