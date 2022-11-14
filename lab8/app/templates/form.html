@@ -1,0 +1,51 @@
+{% extends 'main.html' %}
+
+
+{% block head %}
+<title>Form</title>
+{% endblock %}
+
+
+
+{% block content %}
+
+<div class="container" >
+    <div class="d-flex justify-content-center inner-container">       
+
+		{% from "macros/_render_field.html" import render_field %}
+
+        <div class="bg-dark text-secondary text-center align-self-center form-div">
+
+			<form action="" method="post">
+				{{ form.csrf_token }}
+
+                {% for field in form %}
+                    {% if loop.revindex > 2 %}
+                        {{ render_field(field, class="form-control") }}
+                    {% endif %}
+                {% endfor %}
+
+				{{ form.submit(class="btn btn-primary") }}
+			</form>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    $('.nav-item a').each(function(){
+		let hasActiveClass = $(this).hasClass('active');
+
+		if (hasActiveClass){
+			$(this).removeClass('active');
+			return false;
+		}
+	});
+
+    $('.form .nav-link').addClass('active');
+
+</script>
+
+{% endblock %}
+
+

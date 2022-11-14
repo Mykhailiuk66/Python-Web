@@ -1,0 +1,54 @@
+{% extends 'main.html' %} {% block head %}
+<title>About</title>
+{% endblock %} 
+
+{% block content %}
+
+<!-- min-vh-100 -->
+<div class="container" >
+    <div class="d-flex justify-content-center inner-container">       
+        <div class="bg-dark text-secondary px-4 py-5 text-center align-self-center">
+            <div>
+                <span class="emoji">
+                    {% if checker==1 %}
+                    😃
+                    {% elif checker==2 %}
+                    😄
+                    {% else%}
+                    😁
+                    {% endif %}
+                </span>
+            </div>
+            <div class="py-5">
+                <h1 class="display-5 fw-bold text-white">About Me</h1>
+                <div class="col-lg-6 mx-auto">
+                    <br />
+                    <p class="fs-5 mb-4">
+                        Hi! I'm Vitalii Mykhailiuk from Ukraine!
+                    </p>
+                    <p class="fs-5 mb-4">
+                        I love programming, as well as drinking coffe, relaxing and
+                        learning new things! Feel free to get in touch or take a
+                        look at my past work.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $('.nav-item a').each(function(){
+		let hasActiveClass = $(this).hasClass('active');
+
+		if (hasActiveClass){
+			$(this).removeClass('active');
+			return false;
+		}
+	});
+
+    $('.about .nav-link').addClass('active');
+
+</script>
+
+{% endblock %}

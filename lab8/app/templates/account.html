@@ -1,0 +1,25 @@
+{% extends 'main.html' %} {% block head %}
+<title>Account</title>
+{% endblock %} 
+
+{% block content %}
+
+<div class="container" >
+    <h1>{{ current_user.username }}</h1>
+</div>
+
+<script>
+    $('.nav-item a').each(function(){
+		let hasActiveClass = $(this).hasClass('active');
+
+		if (hasActiveClass){
+			$(this).removeClass('active');
+			return false;
+		}
+	});
+
+    $('.account .nav-link').addClass('active');
+
+</script>
+
+{% endblock %}
