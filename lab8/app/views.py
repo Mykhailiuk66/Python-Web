@@ -1,10 +1,10 @@
-from flask import render_template, request, redirect, flash, url_for, session
+from flask import render_template, request, redirect, flash, url_for, session, abort
 from flask_login import login_user, current_user, logout_user, login_required
 from app.form import Myform, RegistrationForm, LoginForm
 from app.models import FormModel, User
 from app import app, db
 import random
-    
+from urllib.parse import urlparse, urljoin
 
 
 projects = [
@@ -30,6 +30,13 @@ projects = [
     },
     
 ]
+
+def is_safe_url(target):
+    ref_url = urlparse(request.host_url)
+    test_url = urlparse(urljoin(request.host_url, target))
+    return test_url.scheme in ('http', 'https') and \
+           ref_url.netloc == test_url.netloc
+
 
 
 @app.route('/')
@@ -152,6 +159,8 @@ def login():
     if current_user.is_authenticated:
         return redirect(url_for('account'))
     
+    
+    
     form = LoginForm()
     if form.validate_on_submit():
         user = User.query.filter_by(email=form.emaii.data).first()
@@ -161,7 +170,14 @@ def login():
             login_user(user, remember=form.remember.data)
              
             flash('You have been logged in!', category='success')
-            return redirect(url_for('account'))
+            
+            next = request.args.get('next')
+            
+            if not is_safe_url(next):
+                return abort(400)
+
+            return redirect(next or url_for('account'))
+            # return redirect(url_for('account'))
         else:
             flash('Login unsuccessful. Please check username and password.', category='warning')
     
@@ -176,6 +192,7 @@ def logout():
 
 
 @app.route('/db_user_table')
+@login_required
 def db_user_table():
     users = User.query.all()
     return  render_template('db_user_table.html', users=users)

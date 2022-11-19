@@ -16,11 +16,11 @@
             <hr>
 
 
-            <form method="post" action="{{ url_for('login', next=request.args.get('next')) }}">
+            <form method="post" action="{{ url_for('account.login', next=request.args.get('next')) }}">
 				{{ form.csrf_token }}
 
                 {% for field in form %}
-                    {% if loop.revindex > 3 %}
+                    {% if loop.revindex > 1 and field.id != 'submit' and field.id != 'remember'%}
                         {{ render_field(field, class="form-control") }}
                     {% endif %}
                 {% endfor %}
