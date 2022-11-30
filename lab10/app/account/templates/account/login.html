@@ -1,0 +1,54 @@
+{% extends 'main.html' %}
+
+{% block head %}
+<title>Login</title>
+{% endblock %}
+
+{% block content %}
+
+<div class="container" >
+    <div class="d-flex justify-content-center inner-container">       
+
+		{% from "macros/_render_field.html" import render_field %}
+
+        <div class="bg-dark text-secondary text-center align-self-center form-div">
+            <h3>Log In</h3>
+            <hr>
+
+
+            <form method="post" action="{{ url_for('account.login', next=request.args.get('next')) }}">
+				{{ form.csrf_token }}
+
+                {% for field in form %}
+                    {% if loop.revindex > 1 and field.id != 'submit' and field.id != 'remember'%}
+                        {{ render_field(field, class="form-control") }}
+                    {% endif %}
+                {% endfor %}
+                
+                <div class="form-check text-start">
+                    {{ form.remember.label(class='form-check-label text-start') }}
+                    {{ form.remember(class='form-check-input') }}
+                </div>
+                <br>
+                
+                {{ form.submit(class="btn btn-primary") }}
+			</form>
+        </div>
+    </div>
+</div>
+
+<script>
+    $('.nav-item a').each(function(){
+		let hasActiveClass = $(this).hasClass('active');
+
+		if (hasActiveClass){
+			$(this).removeClass('active');
+			return false;
+		}
+	});
+
+    $('.log-in .nav-link').addClass('active');
+
+</script>
+
+{% endblock %}

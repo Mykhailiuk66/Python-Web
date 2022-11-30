@@ -1,0 +1,45 @@
+{% extends 'main.html' %} {% block head %}
+<title>Account</title>
+{% endblock %} 
+
+{% block content %}
+
+<div class="container account-container min-vh-100" >
+	<div class="text-white">
+		<h1>{{ user.username }}</h1>
+		<hr>
+	</div>
+
+	<div class="text-white">
+		<h2>Tasks Progress</h2>
+		<ul>
+			<li>
+				Done: {{tasks_info.DONE}}
+			</li>
+			<li>
+				Not done: {{ tasks_info.TODO }}
+			</li>
+			<li>
+				In progress: {{ tasks_info.DOING }}
+			</li>
+		</ul>
+		<hr>
+	</div>
+
+</div>
+
+<script>
+    $('.nav-item a').each(function(){
+		let hasActiveClass = $(this).hasClass('active');
+
+		if (hasActiveClass){
+			$(this).removeClass('active');
+			return false;
+		}
+	});
+
+    $('.account .nav-link').addClass('active');
+
+</script>
+
+{% endblock %}
