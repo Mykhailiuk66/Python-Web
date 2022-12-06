@@ -13921,3 +13921,2131 @@ werkzeug - INFO - 127.0.0.1 - - [30/Nov/2022 20:36:30] "[36mGET /static/css/mai
 werkzeug - INFO - 127.0.0.1 - - [30/Nov/2022 20:36:31] "GET /task/2 HTTP/1.1" 200 -
 werkzeug - INFO - 127.0.0.1 - - [30/Nov/2022 20:36:32] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
 werkzeug - INFO - 127.0.0.1 - - [30/Nov/2022 20:36:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:31:17] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:31:17] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:31:17] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:31:18] "GET /static/img/img_1.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:31:18] "GET /static/img/img_3.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:31:18] "GET /static/img/img_2.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:31:18] "GET /static/img/img_4.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:31:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:31:29] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:31:29] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:31:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:31:33] "[32mPOST /login HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:31:33] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:31:33] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:31:33] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:01] "[35m[1mGET /account/1 HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:01] "GET /account/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:01] "GET /account/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:01] "GET /account/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:01] "[36mGET /account/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:08] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:08] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:09] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:09] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:12] "GET /account HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:12] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:54] "[35m[1mGET /account HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:54] "GET /account?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:54] "GET /account?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:54] "GET /account?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:54] "[36mGET /account?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:57] "[35m[1mGET /account HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:57] "[36mGET /account?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:57] "[36mGET /account?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:57] "[36mGET /account?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:57] "[36mGET /account?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:58] "[35m[1mGET /account HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:58] "[36mGET /account?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:58] "[36mGET /account?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:58] "[36mGET /account?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:58] "[36mGET /account?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:59] "[35m[1mGET /account HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:59] "[36mGET /account?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:35:59] "[36mGET /account?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:36:00] "[36mGET /account?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:36:00] "[36mGET /account?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:36:02] "GET /account HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:36:03] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:36:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:36:07] "GET /db_user_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:36:07] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:36:07] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:36:10] "GET /tasks HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:36:10] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:36:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:36:14] "GET /account/2 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:36:14] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:36:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:36:18] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:36:19] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:36:19] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:36:41] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:36:44] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:36:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:36:45] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:36:45] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:36:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:37:01] "[32mGET /account/1 HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:37:01] "GET /account HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:37:01] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:37:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:37:02] "GET /account HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:37:02] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:37:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:37:10] "GET /account/3 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:37:10] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:37:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:37:10] "GET /account/2 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:37:11] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:37:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:37:19] "[32mGET /account/1 HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:37:19] "GET /account HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:37:19] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:37:19] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:38:18] "GET /tasks HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:38:18] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:38:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:38:20] "GET /task/2 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:38:20] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:38:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:38:29] "[32mPOST /task/2 HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:38:29] "GET /task/2 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:38:29] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:38:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:39:00] "GET /task/2/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:39:01] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:39:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:41:13] "GET /db_user_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:41:13] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:41:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:41:56] "[32mGET /account/1 HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:41:56] "GET /account HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:41:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:41:56] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:42:23] "GET /account HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:42:23] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:42:23] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:42:56] "GET /account HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:42:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:42:56] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:44:45] "GET /account HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:44:45] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:44:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:44:45] "[33mGET /image_file HTTP/1.1[0m" 404 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:44:46] "GET /account HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:44:46] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:44:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:44:46] "[33mGET /image_file HTTP/1.1[0m" 404 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:44:46] "GET /account HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:44:46] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:44:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:44:46] "[33mGET /image_file HTTP/1.1[0m" 404 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:46:09] "[33mGET /account HTTP/1.1[0m" 404 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:46:13] "GET /account/3 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:46:13] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:46:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:46:16] "GET /tasks HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:46:16] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:46:16] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:46:18] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:46:18] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:46:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:48:30] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:48:30] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:48:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:48:30] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:50:00] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:50:00] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:50:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:50:00] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:50:01] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:50:01] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:50:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:50:01] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:50:01] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:50:02] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:50:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:50:02] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:50:02] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:50:02] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:50:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:50:02] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:50:02] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:50:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:50:02] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:50:02] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:50:02] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:50:02] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:50:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:50:02] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:57:02] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:57:03] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:57:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:57:03] "GET /static/profile_pics/default.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:57:51] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:57:51] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:57:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:57:51] "[33mGET /static/profile_pics/default.png HTTP/1.1[0m" 404 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:57:53] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:57:53] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:57:53] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:57:53] "[33mGET /static/profile_pics/default.png HTTP/1.1[0m" 404 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:57:59] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:57:59] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:57:59] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 09:57:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:07:41] "[32mGET /logout HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:07:42] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:07:42] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:07:42] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:07:42] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:07:42] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:07:42] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:07:42] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:07:43] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:07:43] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:07:43] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:07:46] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:07:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:07:46] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:07:50] "[32mPOST /login HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:07:50] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:07:50] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:07:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:07:50] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:11:11] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:11:11] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:11:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:11:11] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:12:43] "[35m[1mGET /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:12:44] "GET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:12:44] "GET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:12:44] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:12:44] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:13:03] "[35m[1mGET /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:13:04] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:13:04] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:13:04] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:13:04] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:13:49] "[35m[1mGET /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:13:49] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:13:49] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:13:49] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:13:49] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:14:19] "[35m[1mGET /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:14:19] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:14:19] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:14:19] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:14:19] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:14:38] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:14:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:14:41] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:15:01] "[32mGET /account/2/update HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:15:01] "[35m[1mGET /account/2 HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:15:02] "GET /account/2?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:15:02] "GET /account/2?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:15:02] "GET /account/2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:15:02] "[36mGET /account/2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:15:19] "[32mGET /account/2/update HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:15:19] "GET /account/2 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:15:19] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:15:19] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:15:19] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:22:59] "[35m[1mGET /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:23:00] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:23:00] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:23:00] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:23:00] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:23:28] "[35m[1mGET /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:23:29] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:23:29] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:23:29] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:23:29] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:23:31] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:23:32] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:23:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:23:47] "[32mPOST /login HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:23:47] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:23:47] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:23:47] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:23:47] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:24:01] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:24:01] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:24:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:24:01] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:24:02] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:24:03] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:24:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:24:03] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:24:16] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:24:16] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:24:16] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:24:16] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:24:19] "[35m[1mGET /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:24:19] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:24:19] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:24:19] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:24:19] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:24:45] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:24:45] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:24:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:24:50] "[31m[1mPOST /account/1/update HTTP/1.1[0m" 405 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:25:10] "[31m[1mPOST /account/1/update HTTP/1.1[0m" 405 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:25:13] "[35m[1mPOST /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:25:13] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:25:13] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:25:13] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:25:13] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:25:46] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:25:46] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:25:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:25:50] "[35m[1mPOST /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:25:50] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:25:50] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:25:50] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:25:50] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:26:41] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:26:41] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:26:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:26:44] "[35m[1mPOST /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:26:44] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:26:44] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:26:44] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:26:44] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:26:58] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:26:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:26:58] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:27:01] "[35m[1mPOST /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:27:01] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:27:01] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:27:02] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:27:02] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:27:43] "[35m[1mPOST /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:27:43] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:27:43] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:27:43] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:27:44] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:28:18] "POST /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:28:18] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:28:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:28:32] "[32mPOST /account/1/update HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:28:32] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:28:32] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:28:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:28:32] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:30:14] "GET /tasks HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:30:14] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:30:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:30:17] "GET /task/2 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:30:17] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:30:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:30:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:31:46] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:31:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:31:46] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:31:46] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:31:55] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:31:55] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:31:55] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:31:56] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:32:06] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:32:06] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:32:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:32:06] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:32:07] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:32:07] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:32:07] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:32:07] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:32:08] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:32:08] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:32:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:32:08] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:32:16] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:32:16] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:32:16] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:32:16] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:33:34] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:33:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:33:34] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:33:34] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:05] "GET /task/2 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:06] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:06] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:07] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:07] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:07] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:07] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:08] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:08] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:08] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:08] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:08] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:08] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:17] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:17] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:17] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:18] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:35] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:36] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:36] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:36] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:42] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:54] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:54] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:54] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:55] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:55] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:56] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:56] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:56] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:59] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:59] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:35:59] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:00] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:00] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:01] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:01] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:01] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:16] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:16] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:16] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:16] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:17] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:17] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:17] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:18] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:25] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:25] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:25] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:26] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:31] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:31] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:31] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:31] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:36] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:36] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:36] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:36:36] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:06] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:06] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:06] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:06] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:16] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:16] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:16] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:16] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:32] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:32] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:32] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:33] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:33] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:33] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:33] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:34] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:34] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:34] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:40] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:40] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:40] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:41] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:41] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:41] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:41] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:41] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:56] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:56] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:56] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:37:56] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:38:01] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:38:01] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:38:01] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:38:01] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:38:34] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:38:34] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:38:34] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:38:35] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:38:36] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:38:36] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:38:36] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:38:36] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:38:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:39:36] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:39:37] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:39:37] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:39:37] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:40:29] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:40:29] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:40:29] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:40:30] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:42:24] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:42:24] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:42:24] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:42:25] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:42:40] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:42:40] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:42:40] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:42:41] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:42:42] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:42:42] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:42:42] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:42:42] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:42:45] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:42:45] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:42:45] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:42:46] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:43:00] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:43:00] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:43:00] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:43:01] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:43:31] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:43:31] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:43:31] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:43:31] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:44:10] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:44:10] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:44:10] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:44:11] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:46:39] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:46:39] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:46:39] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:46:39] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:47:54] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:47:54] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:47:54] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:47:55] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:48:14] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:48:14] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:48:14] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:48:14] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:48:22] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:48:22] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:48:22] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:48:22] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:48:38] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:48:38] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:48:38] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:48:38] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:48:47] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:48:47] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:48:47] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:48:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:51:53] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:51:53] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:51:53] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:52:00] "POST /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:52:00] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:52:00] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:52:06] "[32mPOST /account/1/update HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:52:06] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:52:06] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:52:06] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:52:07] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:54:47] "GET /categories HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:54:47] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:54:47] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:54:51] "GET /tasks HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:54:51] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:54:51] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:55:02] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:55:02] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:55:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:55:02] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:55:02] "GET /account/2 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:55:03] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:55:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:55:03] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:00] "GET /tasks HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:00] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:00] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:02] "[35m[1mGET /account/2 HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:03] "[35m[1mGET /account/1 HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:03] "[36mGET /account/2?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:03] "[36mGET /account/2?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:03] "[36mGET /account/2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:03] "[36mGET /account/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:03] "[36mGET /account/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:03] "[36mGET /account/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:03] "[36mGET /account/2?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:03] "[36mGET /account/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:18] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:18] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:18] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:19] "GET /account/2 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:19] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:19] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:19] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:37] "GET /account/3 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:37] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:37] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:38] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:53] "GET /task/2 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:53] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:53] "GET /static/css/main.css HTTP/1.1" 200 -
+app - INFO - Progress updated
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:56] "[32mGET /task/2/up-progress HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:56] "GET /task/2 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:56] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:56:56] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:57:02] "GET /tasks HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:57:03] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:57:03] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:57:09] "GET /account/2 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:57:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:57:09] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 10:57:09] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:00:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:00:42] "GET /categories HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:00:43] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:00:43] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:00:45] "GET /tasks HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:00:45] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:00:45] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:01:06] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:01:06] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:01:06] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:01:08] "GET /static/img/img_1.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:01:08] "GET /static/img/img_2.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:01:08] "GET /static/img/img_3.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:01:08] "GET /static/img/img_4.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:01:12] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:01:12] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:01:12] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:01:14] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:01:36] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:01:37] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:01:37] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:02:16] "GET /tasks HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:02:16] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:02:16] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:02:17] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:02:17] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:02:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:02:17] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:07:39] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:07:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:07:39] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:07:39] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:07:40] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:07:40] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:07:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:09:51] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:09:51] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:09:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:10:29] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:10:30] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:10:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:10:31] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:10:31] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:10:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:10:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:14:25] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:14:25] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:14:25] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:14:26] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:14:26] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:14:26] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:27] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:27] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:27] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:32] "[32mGET /logout HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:32] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:32] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:32] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:32] "GET /static/img/img_1.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:32] "GET /static/img/img_2.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:32] "GET /static/img/img_3.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:32] "GET /static/img/img_4.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:33] "GET /register HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:33] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:33] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:35] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:35] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:35] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:40] "[32mPOST /login HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:40] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:40] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:40] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:41] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:44] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:44] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:15:44] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:17:15] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:17:15] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:17:16] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:17:30] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:17:30] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:17:30] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:17:31] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:17:44] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:17:44] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:17:44] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:17:44] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:17:48] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:17:48] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:17:48] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:17:48] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:18:32] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:18:32] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:18:32] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:18:33] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:18:33] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:18:34] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:18:34] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:18:34] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:18:40] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:18:40] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:18:40] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:18:40] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:19:34] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:19:34] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:19:34] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:19:34] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:19:49] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:19:49] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:19:49] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:19:49] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:19:50] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:19:50] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:19:50] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:19:50] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:20:44] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:20:44] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:20:44] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:20:45] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:20:53] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:20:53] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:20:53] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:20:53] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:21:16] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:21:17] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:21:17] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:21:17] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:24:55] "[32mPOST /account/1/update HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:24:55] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:24:55] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:24:55] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:24:56] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:24:58] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:24:58] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:24:58] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:24:59] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:25:02] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:25:03] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:25:03] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:25:12] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:30:55] "[35m[1mGET /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:30:55] "GET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:30:55] "GET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:30:55] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:30:55] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:31:14] "[35m[1mGET /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:31:16] "GET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:31:16] "GET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:31:17] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:31:17] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:31:44] "[35m[1mGET /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:31:45] "GET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:31:45] "GET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:31:45] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:31:45] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:31:59] "[35m[1mGET /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:31:59] "GET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:31:59] "GET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:32:00] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:32:00] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:32:37] "[35m[1mGET /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:32:37] "[35m[1mGET /account/1 HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:32:37] "GET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:32:37] "GET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:32:38] "GET /account/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:32:38] "GET /account/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:32:38] "GET /account/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:32:38] "GET /account/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:32:39] "[35m[1mGET /account/1 HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:32:39] "GET /account/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:32:39] "GET /account/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:32:39] "GET /account/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:32:40] "GET /account/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:32:51] "[35m[1mGET /account/1 HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:32:51] "GET /account/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:32:51] "GET /account/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:32:51] "GET /account/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:32:51] "GET /account/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:32:57] "[35m[1mGET /account/1 HTTP/1.1[0m" 500 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:33:00] "GET /account/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:33:00] "GET /account/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:33:00] "GET /account/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:33:00] "GET /account/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:34:51] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:34:52] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:34:52] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:34:56] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:34:57] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:34:57] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:34:57] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:35:01] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:35:07] "[35m[1mPOST /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:35:07] "GET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:35:07] "GET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:35:07] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:35:08] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:35:16] "[35m[1mPOST /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:35:19] "GET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:35:19] "GET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:35:19] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:35:19] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:35:28] "[35m[1mPOST /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:35:28] "GET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:35:28] "GET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:35:28] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:35:28] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:07] "[35m[1mPOST /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:07] "GET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:07] "GET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:07] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:07] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:17] "[35m[1mPOST /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:17] "GET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:17] "GET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:18] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:20] "[35m[1mPOST /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:20] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:20] "GET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:20] "GET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:20] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:21] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:29] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:29] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:29] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:29] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:34] "[35m[1mPOST /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:34] "GET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:34] "GET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:34] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:34] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:37] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:37] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:37] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:36:37] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:37:04] "[35m[1mPOST /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:37:04] "GET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:37:04] "GET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:37:04] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:37:05] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:37:47] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:37:47] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:37:47] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:37:48] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:37:51] "[35m[1mPOST /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:37:51] "GET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:37:51] "GET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:37:51] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:37:51] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:39:10] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:39:10] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:39:10] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:39:11] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:39:16] "[32mPOST /account/1/update HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:39:16] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:39:16] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:39:16] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:39:16] "GET /static/profile_pics/03bbd91b88b2ab85.png HTTP/1.1" 200 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:42:00] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:42:00] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:42:00] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:42:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:42:00] "[36mGET /static/profile_pics/03bbd91b88b2ab85.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:42:04] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:42:04] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:42:04] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:42:04] "[36mGET /static/profile_pics/03bbd91b88b2ab85.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:42:24] "[35m[1mPOST /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:42:24] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:42:24] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:42:24] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:42:24] "[36mGET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:43:05] "[32mPOST /account/1/update HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:43:05] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:43:05] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:43:05] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:43:05] "GET /static/profile_pics/0134e664c2d04256.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:43:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:44:21] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:44:21] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:44:21] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:44:22] "GET /static/profile_pics/0134e664c2d04256.jpg HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:55:19] "[35m[1mGET /account/1 HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:55:20] "GET /account/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:55:20] "GET /account/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:55:20] "GET /account/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:55:21] "GET /account/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:58:44] "[35m[1mGET /account/1 HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:58:44] "GET /account/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:58:44] "GET /account/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:58:44] "GET /account/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:58:44] "GET /account/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:58:55] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:58:56] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:58:56] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:58:56] "GET /static/profile_pics/0134e664c2d04256.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:59:00] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:59:00] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:59:00] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:59:00] "GET /static/profile_pics/0134e664c2d04256.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:59:59] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:59:59] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:59:59] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 11:59:59] "GET /static/profile_pics/0134e664c2d04256.jpg HTTP/1.1" 200 -
+PIL.Image - DEBUG - Importing BlpImagePlugin
+PIL.Image - DEBUG - Importing BmpImagePlugin
+PIL.Image - DEBUG - Importing BufrStubImagePlugin
+PIL.Image - DEBUG - Importing CurImagePlugin
+PIL.Image - DEBUG - Importing DcxImagePlugin
+PIL.Image - DEBUG - Importing DdsImagePlugin
+PIL.Image - DEBUG - Importing EpsImagePlugin
+PIL.Image - DEBUG - Importing FitsImagePlugin
+PIL.Image - DEBUG - Importing FitsStubImagePlugin
+PIL.Image - DEBUG - Importing FliImagePlugin
+PIL.Image - DEBUG - Importing FpxImagePlugin
+PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+PIL.Image - DEBUG - Importing FtexImagePlugin
+PIL.Image - DEBUG - Importing GbrImagePlugin
+PIL.Image - DEBUG - Importing GifImagePlugin
+PIL.Image - DEBUG - Importing GribStubImagePlugin
+PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+PIL.Image - DEBUG - Importing IcnsImagePlugin
+PIL.Image - DEBUG - Importing IcoImagePlugin
+PIL.Image - DEBUG - Importing ImImagePlugin
+PIL.Image - DEBUG - Importing ImtImagePlugin
+PIL.Image - DEBUG - Importing IptcImagePlugin
+PIL.Image - DEBUG - Importing JpegImagePlugin
+PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+PIL.Image - DEBUG - Importing McIdasImagePlugin
+PIL.Image - DEBUG - Importing MicImagePlugin
+PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+PIL.Image - DEBUG - Importing MpegImagePlugin
+PIL.Image - DEBUG - Importing MpoImagePlugin
+PIL.Image - DEBUG - Importing MspImagePlugin
+PIL.Image - DEBUG - Importing PalmImagePlugin
+PIL.Image - DEBUG - Importing PcdImagePlugin
+PIL.Image - DEBUG - Importing PcxImagePlugin
+PIL.Image - DEBUG - Importing PdfImagePlugin
+PIL.Image - DEBUG - Importing PixarImagePlugin
+PIL.Image - DEBUG - Importing PngImagePlugin
+PIL.Image - DEBUG - Importing PpmImagePlugin
+PIL.Image - DEBUG - Importing PsdImagePlugin
+PIL.Image - DEBUG - Importing SgiImagePlugin
+PIL.Image - DEBUG - Importing SpiderImagePlugin
+PIL.Image - DEBUG - Importing SunImagePlugin
+PIL.Image - DEBUG - Importing TgaImagePlugin
+PIL.Image - DEBUG - Importing TiffImagePlugin
+PIL.Image - DEBUG - Importing WebPImagePlugin
+PIL.Image - DEBUG - Importing WmfImagePlugin
+PIL.Image - DEBUG - Importing XbmImagePlugin
+PIL.Image - DEBUG - Importing XpmImagePlugin
+PIL.Image - DEBUG - Importing XVThumbImagePlugin
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:00:10] "[32mPOST /account/1/update HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:00:10] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:00:11] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:00:11] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:00:12] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\models.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:04:17] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:04:17] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:04:18] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:04:18] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:04:59] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:04:59] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:04:59] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:05:00] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:05:42] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:05:43] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:05:43] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:05:43] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:05:44] "[35m[1mGET /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:05:44] "GET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:05:44] "GET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:05:45] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:05:45] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:05:57] "[35m[1mGET /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:05:58] "GET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:05:58] "GET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:05:58] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:05:58] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:06:00] "[35m[1mGET /account/1/update HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:06:00] "GET /account/1/update?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:06:00] "GET /account/1/update?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:06:00] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:06:00] "GET /account/1/update?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:06:16] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:06:16] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:06:16] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:06:17] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:07:23] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:07:23] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:07:23] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:07:23] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:07:57] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:07:57] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:07:57] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:07:58] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:08:05] "[32mPOST /account/1/update HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:08:05] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:08:05] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:08:05] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:08:07] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:08:41] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:08:41] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:08:41] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:08:41] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:09:43] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:09:43] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:09:43] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:09:43] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:09:53] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:09:53] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:09:53] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:09:54] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:10:14] "[35m[1mGET /account/1 HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:10:14] "GET /account/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:10:14] "GET /account/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:10:14] "GET /account/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:10:14] "GET /account/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:10:15] "[35m[1mGET /account/1 HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:10:15] "GET /account/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:10:15] "GET /account/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:10:15] "GET /account/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:10:15] "GET /account/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:10:36] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:10:36] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:10:36] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:10:36] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:10:47] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:10:47] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:10:47] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:10:47] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:11:06] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:11:06] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:11:06] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:11:06] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:11:07] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:11:07] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:11:07] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:11:08] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:11:15] "[32mPOST /account/1/update HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:11:15] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:11:15] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:11:15] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:11:16] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:11:25] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:11:25] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:11:25] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:11:25] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:12:23] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:12:24] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:12:24] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:12:24] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:12:25] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:12:25] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:12:25] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:12:25] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:12:46] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:12:46] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:12:46] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:12:46] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:13:30] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:13:30] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:13:30] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:13:30] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:13:59] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:13:59] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:13:59] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:13:59] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:14:07] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:14:07] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:14:07] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:14:07] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:14:18] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:14:18] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:14:18] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:14:19] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:14:46] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:14:46] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:14:46] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:14:46] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:15:14] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:15:14] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:15:14] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:15:15] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:15:21] "GET /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:15:21] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:15:21] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 12:15:21] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+werkzeug - INFO - [33mPress CTRL+C to quit[0m
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:49:45] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:49:45] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:49:46] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:49:46] "GET /static/img/img_1.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:49:46] "GET /static/img/img_3.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:49:46] "GET /static/img/img_2.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:49:46] "GET /static/img/img_4.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:49:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:49:47] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:49:48] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:49:48] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:49:53] "[32mPOST /login HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:49:53] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:49:53] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:49:53] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:49:53] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:49:59] "GET /tasks HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:00] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:01] "GET /account/2 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:01] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:01] "GET /static/profile_pics/default.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:04] "GET /tasks HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:04] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:04] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:05] "GET /account/3 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:05] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:05] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:05] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:34] "GET /account/3 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:35] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:35] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:35] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:36] "GET /tasks HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:36] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:38] "GET /account/3 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:38] "GET /account/2 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:38] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:38] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:38] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:39] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:39] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:39] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:39] "[36mGET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:44] "[32mGET /logout HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:44] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:44] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:44] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:44] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:44] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:44] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:46] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:46] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:52] "[32mPOST /login HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:52] "GET /account/3 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:52] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:52] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:54] "GET /account/3/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:54] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:54] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:50:54] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:06] "[32mPOST /account/3/update HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:06] "GET /account/3 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:06] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:06] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:08] "[32mGET /logout HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:08] "GET / HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:08] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:08] "[36mGET /static/img/img_1.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:08] "[36mGET /static/img/img_2.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:08] "[36mGET /static/img/img_3.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:08] "[36mGET /static/img/img_4.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:09] "GET /login HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:09] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:15] "[32mPOST /login HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:15] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:15] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:15] "[36mGET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:41] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:41] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:41] "[36mGET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:43] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:43] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:43] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:43] "[36mGET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:54] "GET /candidate/db_form_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:54] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:54] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:56] "GET /db_user_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:56] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:56] "GET /db_user_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:56] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:51:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:02] "GET /candidate/db_form_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:02] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:03] "GET /tasks HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:03] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:04] "GET /categories HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:05] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:05] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:08] "GET /categories HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:09] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:09] "GET /tasks HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:09] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:12] "GET /task/2 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:12] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:19] "GET /task/2/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:19] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:19] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+app - INFO - Progress updated
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:25] "[32mGET /task/2/up-progress HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:25] "GET /task/2 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:25] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:25] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:30] "GET /tasks HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:30] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:33] "GET /task/create HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:33] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:33] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+app - INFO - Task added
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:50] "[32mPOST /task/create HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:50] "GET /tasks HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:50] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:52:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\tasks\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:53:40] "GET /tasks HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:53:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:53:40] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\tasks\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:53:51] "GET /tasks HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:53:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:53:51] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:54:12] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:54:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:54:12] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:54:12] "[36mGET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:54:14] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:54:14] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:54:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:54:15] "[36mGET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:54:18] "GET /account/3 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:54:18] "GET /account/4 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:54:19] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:54:19] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:54:19] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:54:19] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:54:19] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:54:19] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:54:19] "[36mGET /static/profile_pics/default.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:54:19] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:54:19] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:54:19] "[36mGET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:55:27] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:55:27] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:55:27] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 16:55:27] "[36mGET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\forms.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:05:41] "[35m[1mGET /account/1 HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:05:41] "GET /account/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:05:41] "GET /account/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:05:41] "GET /account/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:05:41] "[36mGET /account/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:05:56] "[35m[1mGET /account/1 HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:05:56] "[36mGET /account/1?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:05:56] "[36mGET /account/1?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:05:56] "[36mGET /account/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:05:57] "[36mGET /account/1?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:28] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:28] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:28] "[36mGET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:31] "GET /tasks HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:31] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:33] "GET /categories HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:33] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:33] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:34] "GET /db_user_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:34] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:34] "GET /tasks HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:34] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:35] "GET /task/2 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:36] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:38] "GET /tasks HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:38] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:39] "GET /db_user_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:39] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:39] "GET /categories HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:40] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:41] "GET /tasks HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:41] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:42] "GET /db_user_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:42] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:42] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:42] "GET /candidate/db_form_table HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:42] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:42] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:43] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:43] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:43] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:06:43] "[36mGET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:07:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:07:33] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:07:33] "GET /static/js/script.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:07:33] "GET /static/css/main.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:07:36] "GET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:07:38] "GET /account/1/change-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:07:38] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:07:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:07:48] "GET /account/1/change-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:07:48] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:07:48] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:07:58] "GET /account/1/change-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:07:58] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:07:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:08:05] "POST /account/1/update HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:08:05] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:08:05] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:08:05] "[36mGET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:10:00] "GET /tasks HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:10:00] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:10:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:10:02] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:10:02] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:10:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:10:02] "[36mGET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:10:03] "[35m[1mGET /account/1/change-password HTTP/1.1[0m" 500 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:10:03] "GET /account/1/change-password?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:10:03] "GET /account/1/change-password?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:10:03] "GET /account/1/change-password?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:10:03] "[36mGET /account/1/change-password?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:10:16] "GET /account/1/change-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:10:16] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:10:16] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:10:20] "POST /account/1/change-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:10:20] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:10:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:10:32] "[32mPOST /account/1/change-password HTTP/1.1[0m" 302 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:10:32] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:10:32] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:10:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:10:32] "[36mGET /static/profile_pics/e96f338ee8d55a2a.jpg HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 526-733-776
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:11:08] "GET /account/1 HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:11:08] "GET /account/1/change-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:11:09] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:11:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:11:16] "POST /account/1/change-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:11:16] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:11:16] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 860-307-527
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:11:43] "POST /account/1/change-password HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:11:43] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+werkzeug - INFO - 127.0.0.1 - - [06/Dec/2022 17:11:43] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+werkzeug - INFO -  * Detected change in 'D:\\Programming\\Python Web\\lab11\\app\\account\\views.py', reloading
+werkzeug - INFO -  * Restarting with stat
