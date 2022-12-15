@@ -59,6 +59,13 @@ def test_index(client):
     
     assert response.status_code == 200
     assert b'Portfolio' in response.data
+    
+
+def test_about(client):
+    response = client.get('/about')
+    
+    assert response.status_code == 200
+    assert b'About Me' in response.data
 
 
 def test_reg_log_logout(client):
