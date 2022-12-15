@@ -1,0 +1,107 @@
+{% extends 'main.html' %} {% block head %}
+<title>Task</title>
+{% endblock %} {% block content %}
+
+<div class="container task-info-cont min-vh-100">
+    <div class="task-info text-white">
+        <div>
+            <h1>{{ task.title }}</h1>
+            <div>
+                <a href="{{ url_for('tasks.up_progress', id=task.id) }}">
+                    {% if task.progress.value == 1 %}
+                        <button type="button" class="btn btn-warning">Do</button>
+                    {% elif task.progress.value == 2 %}
+                        <button type="button" class="btn btn-warning">Done</button>
+                    {% endif %}
+                </a>
+
+                <a href="{{ url_for('tasks.task_update', id=task.id) }}">
+                    <button type="button" class="btn btn-primary">Edit Task</button>
+                </a>
+                <a href="{{ url_for('tasks.task_delete', id=task.id) }}">
+                    <button type="button" class="btn btn-secondary" onclick="return confirm('Are you sure you wish to delete?');">
+                        Delete Task
+                    </button>
+                </a>
+            </div>
+            
+        </div>
+        <hr>
+
+        <h6>Created: <span class="time-utc">{{ task.created}}</span>, by: {{ task.owner.username}}</h6>
+        <h6>Category: {{task.category.name}}</h6>
+        <h6>Deadline: <span class="time-utc">{% if task.deadline %}{{ task.deadline}}{% else %}-{% endif %}</span> </h6>
+        <hr>
+
+        Priority: {{ task.priority.name|capitalize}}
+        <br>
+        Progress: {{ task.progress.name|capitalize}}
+        <br>
+        <p>
+            Assigned users:
+            {% if task.assigned_users %}
+                {% for user in task.assigned_users%}
+                    <a href="{{ url_for('account.account', id=user.id) }}">
+                        {{user.username}}
+                    </a>
+                    {% if not loop.last %},{% endif %}
+                {% endfor %}
+            {% else %}
+                -
+            {% endif %}
+
+        </p>
+        <hr>
+
+        <h6>Description:</h6>
+        <p>{{ task.description|safe }}</p>
+        
+        <hr>
+
+        {% if allow_to_comment %}
+        <div class="d-flex justify-content-center">
+            {% from "macros/_render_field.html" import render_field %}
+
+            <form action="" method="post">
+                {{ form.csrf_token }}
+                
+                {{ render_field(form.content, class="form-control") }}
+
+                {{ form.submit(class="btn btn-primary") }}
+            </form>
+
+            
+            {{ ckeditor.load() }}
+            {{ ckeditor.config(name='content') }}
+
+        </div>
+        {% endif %}
+
+        <br><br>
+        <h1>Comments</h1>
+        <hr>
+        <div class="comments">
+            {% for comment in task.comments %}
+                <div class="comment">
+                    <h5 class="commentator">
+                        {{ comment.commentator.username }}
+                    </h5>
+                    <p>
+                    {{ comment.content|safe|trim }}
+                    </p>
+
+                </div>
+                <hr>
+            {% endfor %}
+        </div>
+        
+    </div>
+    
+</div>
+
+<script>
+    setLocalTimezone();
+</script>
+
+
+{% endblock %}

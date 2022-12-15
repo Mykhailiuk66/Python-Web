@@ -1,0 +1,67 @@
+{% extends 'main.html' %} {% block head %}
+<title>Tasks</title>
+{% endblock %} {% block content %}
+
+<div class="container">
+    <table class="table table-dark table-hover">
+        <thead>
+            <tr>
+                <th class="align-middle" scope="col"><a href="">Title</a></th>
+                <th class="align-middle" scope="col">Description</th>
+                <th class="align-middle" scope="col">Category</th>
+                <th class="align-middle" scope="col">Priority</th>
+                <th class="align-middle" scope="col">Progress</th>
+                <th class="align-middle" scope="col">Deadline</th>
+                <th class="align-middle" scope="col">Assigned user(s)</th>
+                <th class="align-middle text-end add-task-div" scope="col">
+                        <a href="{{ url_for('tasks.task_add') }}">
+                            <button type="button" class="btn btn-warning">
+                                Add Task
+                            </button>
+                        </a>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for task in tasks %}
+            <tr>
+                <td class="align-middle" scope="row"><a href="{{url_for('tasks.task', id=task.id) }}">{{task.title}}</a></td>
+                <td class="align-middle description">{{task.description|safe}}</td>
+                <td class="align-middle">{{task.category.name}}</td>
+                <td class="align-middle">{{task.priority.name|capitalize }}</td>
+                <td class="align-middle">{{task.progress.name|capitalize }}</td>
+                <td class="align-middle deadline time-utc">{{task.deadline}}</td>
+                <td class="align-middle">
+                    {% for user in task.assigned_users %}
+                        <a href="{{ url_for('account.account', id=user.id) }}">
+                            {{user.username}}
+                        </a>
+                        {% if not loop.last %},{% endif %}
+                    {% endfor %}
+                </td>
+                <td class="align-middle"></td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<script>
+    $( document ).ready(function() {
+        setLocalTimezone();
+
+        $(".nav-item a").each(function () {
+            let hasActiveClass = $(this).hasClass("active");
+
+            if (hasActiveClass) {
+                $(this).removeClass("active");
+                return false;
+            }
+        });
+
+        $(".tasks .nav-link").addClass("active");
+    });
+
+</script>
+
+{% endblock %}
