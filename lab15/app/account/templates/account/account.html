@@ -1,0 +1,77 @@
+{% extends 'main.html' %} {% block head %}
+<title>Account</title>
+{% endblock %} 
+
+{% block content %}
+
+<div class="container account-container min-vh-100" >
+	<div class="media">
+		
+		<div class="media-body text-white">
+			<div>
+				<img class="rounded-circle account_img" src="{{ image_file }}" alt="">
+			</div>
+			<div class="user-info">
+				<h1 class="account-heading">{{ user.username }}</h1>
+				<p class="text-secondary">{{ user.email }}</p>
+			</div>
+			{% if current_user.id == user.id %}
+			<div class="update-button">
+				<a href="{{ url_for('account.account_update', id=current_user.id) }}">
+					<button type="button" class="btn btn-primary">Update Profile</button>
+				</a>
+				<a href="{{ url_for('account.account_password_update', id=current_user.id) }}">
+					<button type="button" class="btn btn-success">Change Password</button>
+				</a>
+			</div>
+			{% endif %}
+		</div>
+		
+		<hr class="text-white">
+
+	</div>
+	{% if user.about_me %}
+	<div class="text-white">
+		<h1>About</h1>
+		<p> 
+			{{ user.about_me | safe }}
+		</p>
+		<hr class="text-white">
+	</div>
+	{% endif %}
+
+
+
+	<div class="text-white">
+		<h2>Tasks Progress</h2>
+		<ul>
+			<li>
+				Done: {{tasks_info.DONE}}
+			</li>
+			<li>
+				Not done: {{ tasks_info.TODO }}
+			</li>
+			<li>
+				In progress: {{ tasks_info.DOING }}
+			</li>
+		</ul>
+		<hr>
+	</div>
+
+</div>
+
+<script>
+    $('.nav-item a').each(function(){
+		let hasActiveClass = $(this).hasClass('active');
+
+		if (hasActiveClass){
+			$(this).removeClass('active');
+			return false;
+		}
+	});
+
+    $('.account .nav-link').addClass('active');
+
+</script>
+
+{% endblock %}
