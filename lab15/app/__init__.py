@@ -41,17 +41,7 @@ def create_app(config_name = 'default'):
     jwt.init_app(app)
     register_cli_commands(app)
     
-    engine = sa.create_engine(app.config['SQLALCHEMY_DATABASE_URI'])
-    inspector = sa.inspect(engine)
-    if not inspector.has_table("users"):
-        with app.app_context():
-            db.drop_all()
-            db.create_all()
-            app.logger.info('Initialized the database!')
-    else:
-        app.logger.info('Database already contains the users table.')
-
-
+ 
     with app.app_context():
         from app.home import home_bp
         from app.candidate_form import candidate_bp
@@ -68,6 +58,18 @@ def create_app(config_name = 'default'):
         app.register_blueprint(category_bp, url_prefix='/api')
         app.register_blueprint(task_api_bp, url_prefix='/api/v2')
         app.register_blueprint(swagger_bp, url_prefix='/swagger')
+       
+        
+    engine = sa.create_engine(app.config['SQLALCHEMY_DATABASE_URI'])
+    inspector = sa.inspect(engine)
+    if not inspector.has_table("users"):
+        with app.app_context():
+            db.drop_all()
+            db.create_all()
+            app.logger.info('Initialized the database!')
+    else:
+        app.logger.info('Database already contains the users table.')
+
 
     return app
 
