@@ -24,9 +24,8 @@ class User(db.Model, UserMixin):
 
     @password.setter
     def password(self, password):
-        pwhash = bcrypt.hashpw(password.encode('utf8'), bcrypt.gensalt())
-        self.password_hash = pwhash.decode('utf8')
-        # self.password_hash = bcrypt.generate_password_hash(password)
+        self.password_hash = bcrypt.generate_password_hash(password).decode('utf8')
+        #self.password_hash = bcrypt.generate_password_hash(password)
 
     def verify_password(self, password):
         return bcrypt.check_password_hash(self.password_hash, password)
