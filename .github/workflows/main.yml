@@ -18,10 +18,6 @@ jobs:
         run: |
           python -m venv venv
           venv/bin/pip install -r lab15/requirements.txt
-      - name: Build and deploy
-        run: |
-          venv/bin/python setup.py install
-          venv/bin/gunicorn --bind 0.0.0.0:$PORT wsgi:app
       - name: Deploy to Render
         uses: actions/setup-python@v2
         with:
