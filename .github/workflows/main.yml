@@ -23,8 +23,7 @@ jobs:
           venv/bin/python setup.py install
           venv/bin/gunicorn --bind 0.0.0.0:$PORT wsgi:app
       - name: Deploy to Render
-        uses: render-examples/git-auto-deploy@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GHUB_TOKEN }}
           render_token: ${{ secrets.RENDER_TOKEN }}
           render_app_name: my-app-name
