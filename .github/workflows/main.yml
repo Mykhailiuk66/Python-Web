@@ -10,14 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Set up Python 3.8
+      - name: Set up Python 3.10
         uses: actions/setup-python@v2
         with:
-          python-version: 3.8
+          python-version: 3.10
       - name: Install dependencies
         run: |
           python -m venv venv
-          venv/bin/pip install -r requirements.txt
+          venv/bin/pip install -r lab15/requirements.txt
       - name: Build and deploy
         run: |
           venv/bin/python setup.py install
